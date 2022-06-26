@@ -1,2 +1,2 @@
-const game=["ludo","chess","carum","snake-lader"]
-console.log(game)
+var myFavouriteGames = ["chess", "Ludo", "Badminton", "Volleyball"];
+console.log(myFavouriteGames);

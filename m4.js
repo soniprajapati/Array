@@ -1,3 +1,4 @@
-const game=[ 'ludo', 'chess', 'carum', 'snake-lader' ]
-game.unshift("baseball")
-console.log(game)
+// let myFavouriteGames = ["chess", "Ludo", "Badminton"];
+// console.log(myFavouriteGames.2);
+
+// // syntax

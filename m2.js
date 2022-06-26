@@ -1,2 +1,3 @@
-const fruits=["apple","orange","kiwi","banana"]
-console.log(fruits[2])
+var myFavouriteFruits = ["Mango", "Orange", "Banana", "Grapes"];
+
+console.log(myFavouriteFruits[2]);

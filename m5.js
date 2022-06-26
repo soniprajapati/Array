@@ -1,3 +1,3 @@
-let myFavouriteGames = ["chess", "Ludo", "Badminton"];
-// console.log(myFavouriteGames.2);
-//  sintax error
+let myFavouriteGames = ["chess", "Ludo", "Badminton", "Basketball", "Carom", "Cricket"];
+let removedItems = myFavouriteGames.splice(3,1);
+console.log(myFavouriteGames);

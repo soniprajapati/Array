@@ -1,7 +1,6 @@
-// let myFavouriteGames = ["chess", "Ludo", "Badminton", "Basketball", "Carom", "Cricket"];
-// a=myFavouriteGames.slice(3,1)
-// console.log(a)
-
-let myFavouriteGames = ["chess", "Ludo", "Badminton", "Basketball", "Carom", "Cricket"];
-let removedItems = myFavouriteGames.splice(3,1);
-console.log(myFavouriteGames);
+var numbers=[50, 40, 23, 70, 56, 12, 5, 10, 7];
+var count_element=0;
+for(var i=0; i<numbers.length;i++){
+    count_element++
+}
+console.log(count_element);
